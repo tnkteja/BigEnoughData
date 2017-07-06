@@ -6,6 +6,7 @@
 
 ![bigDataTable](https://qph.ec.quoracdn.net/main-qimg-4ffd5c58b96abab86126574ac0098df6)
 
+The legacy or so to say the existing sql systems take huge amount of time to process or manipulate the data that comes into them and that is not available in real time for any applications to consume. So to handle the velocity aspect of these we can have streaming aspect of it.
 
 ## References
 1. _https://www.quora.com/How-much-data-is-Big-Data_
