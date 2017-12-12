@@ -144,3 +144,17 @@ class DataAnalysis(object):
 * Define your project
 * Data architect can map out data pipeline
 
+Common Questions
+How and Why are you collecing data ? ( Not quite the question for what wanted to start for )
+Velocity - How ( questionalble)
+    * Streaming => real time
+    * Batch => no immediete acction
+       * historical records
+Variety - what kind ( fine )
+Volumne - how much
+usually 4 x data
+ 3 replicas + space for OS + space for meta data files
+ 
+Extract => Transform ( Normalizing, Cleaning, Sampling, Splitting ) => Load
+
+Final Step data analysis
