@@ -175,6 +175,7 @@ Roles| Skills
  Configure Security |
   Add/Remove Users |
 
+Courses - ADM 200,1,2,3
 ### Developers
 Roles| Skills
 :-:|:-:
@@ -184,7 +185,7 @@ Test Code| Functional or scripting programming languages
 Maintain Code|
 
 write programs to automate ETL and analysis
-
+Courses - DEV 301,320, 350, 360
 ### Analysts and Scientists
 Roles | Skills
 :-:|:-:
@@ -192,3 +193,5 @@ Business Intelligence| Functional or scripting languages
 Machine Learning and Predictions| Presentation and graphic tools
 Graphs and Visualizations|Statistics and subject specific knowledge
 Infographics and Presentations|Data modeling and prediction
+
+Courses - DA 410, 440, 450
