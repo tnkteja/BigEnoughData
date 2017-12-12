@@ -68,3 +68,61 @@ MapReduce|MapReduce| MapReduce
 Bigtable|HBase|HBase/MapR-DB
 GFS|HDFS|HDFS/MapR-FS
 
+Commercial
+1000 MB = 1 GB 
+1000 GB = 1 TB
+1000 TB = 1 PB
+
+Types of data -  computer science data types
+* chartacter
+* string
+* integer
+* float
+
+other
+* timestamps
+* date
+* images
+* sounds
+* videos
+
+types of files
+```python
+class SimpleStructed():
+    """
+    spreadsheet as csv file
+    """
+    pass
+class ComplexStructured():
+    """
+    Parquet
+    """
+    pass
+class SimpleSemi-Structured():
+    """
+    Apache HBase
+    """
+    pass
+    
+class ComplexSemiStructured():
+    """
+    Json
+    """
+    pass
+
+    
+```
+
+Physical  Storage | Logical Storage
+:-:|:-:
+Actual real world location of your data | how OS organizes the data
+
+Common Terms - 
+* ETL ( Extract Transform Load )
+* IoT ( Internet of Things )
+* SQL ( Sequentiall Query Language )
+* JSON ( Javascript Object Notation)
+* API ( Application Programming Interface )
+* UDF ( User defined functions ) - had to search this one :( - frowny face )
+
+
