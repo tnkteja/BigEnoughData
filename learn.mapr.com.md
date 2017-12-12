@@ -125,4 +125,22 @@ Common Terms -
 * API ( Application Programming Interface )
 * UDF ( User defined functions ) - had to search this one :( - frowny face )
 
+```Python
+
+class DataSource(object):
+    pass
+    
+class DataIngestion(object):
+    pass
+    
+class DataProcessing(object):
+    pass
+
+class DataAnalysis(object):
+    pass
+    
+```
+
+* Define your project
+* Data architect can map out data pipeline
 
