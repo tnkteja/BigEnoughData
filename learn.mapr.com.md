@@ -168,26 +168,27 @@ Final Step data analysis
 ### Administrators
 Roles| Skills
 :-:|:-:
-*    Prepare for Install | CLI
-*    Test Performance | GUI
-*    Upgrade Software | Hardware and Software Knowledge
-*    Plan Disaster Recovery | Proficient in several operating systems
-*    Configure Security |
-*    Add/Remove Users |
+ Prepare for Install | CLI
+ Test Performance | GUI
+ Upgrade Software | Hardware and Software Knowledge
+ Plan Disaster Recovery | Proficient in several operating systems
+ Configure Security |
+  Add/Remove Users |
 
 ### Developers
 Roles| Skills
 :-:|:-:
-    Design and Develop Code| Object-oriented programming languages
-    Deploy Code| Command line interface (CLI)
-    Test Code| Functional or scripting programming languages
-    Maintain Code
+Design and Develop Code| Object-oriented programming languages
+Deploy Code| Command line interface (CLI)
+Test Code| Functional or scripting programming languages
+Maintain Code|
 
 write programs to automate ETL and analysis
 
 ### Analysts and Scientists
 Roles | Skills
-    Business Intelligence| Functional or scripting languages
-    Machine Learning and Predictions| Presentation and graphic tools
-    Graphs and Visualizations|Statistics and subject specific knowledge
-    Infographics and Presentations|Data modeling and prediction
+:-:|:-:
+Business Intelligence| Functional or scripting languages
+Machine Learning and Predictions| Presentation and graphic tools
+Graphs and Visualizations|Statistics and subject specific knowledge
+Infographics and Presentations|Data modeling and prediction
