@@ -1,0 +1,56 @@
+Big Data life Cycle
+
+* Ingesting data into system
+* Persisting the data in storage
+* Computing and Analyzing data
+* Visualizing the results
+
+Three types
+* Structured - relational data
+* Semi structured - XML data
+* Unstructured - word text media
+sale promotion,  strat budget plan , cust serv
+
+Big data technologies
+
+
+Hadoop Architecture
+
+gr|rg|rg|r
+:-:|:-:|:-:|:-:
+a|a|A|a
+
+Top Level InterfacesETL Tools| BI reporting| RDBMS|j
+
+Top level abstractions|PIG|Hive|Squoop
+Distributed Data Processing|MApREduce|HBASE|
+At the base is a Self-healing clustered|HDFS||
+
+
+```python
+class Input(object):
+    def __init__(self):
+        pass
+
+class Split(object):
+    pass
+    
+class MapPhase(object):
+    pass
+    
+class ShuffleAndSort(object):
+    pass
+
+class ReducePhase(object):
+    pass
+    
+```
+hadoop 1.0
+master - meta and slave  node - save data
+hadoop 2.0
+name node - master | secondary name  node and data nodes
+150node cluste
+50 nodes cluster - 40 -50 nodes
+min chunk 128 mb
+
+YARN - 
