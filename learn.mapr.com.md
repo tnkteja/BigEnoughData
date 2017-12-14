@@ -18,6 +18,9 @@ class DataVarietyType(object):
         pass
         
 class Structured(DataVarietyType):
+    """
+    Used to run batch queries on structured data
+    """
     pass
     
 class SemiStructured(DataVarietyType):
@@ -29,6 +32,7 @@ class SemiStructured(DataVarietyType):
 class Unstructured(DataVarietyType):
     """
     video files
+    Pig is used to automate ETL for unstructured data
     """
     pass
 
@@ -135,12 +139,19 @@ class DataSource(object):
     pass
     
 class DataIngestion(object):
+"""
+Pig run on MapReduce using batch process for simple ETL processes
+Spark runs in memory interactive scripts
+"""
     pass
     
 class StreamingDataIngestion(object):
     pass
 
 class BatchDataIngestion(object):
+"""
+Pig
+"""
     pass
     
 class DataProcessing(object):
