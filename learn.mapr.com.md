@@ -4,6 +4,10 @@ High Volume , Variety, Velocity
 
 ### High Volumne
 As of 2014 Nasa Generated 1.73 GB/s .
+black box data - voices of fight crwew
+social media data - updates
+stock exchange data- 
+search engine data - 
 
 ### High Variety
 wikipedia, contains all kinds of data, text, links, media,
