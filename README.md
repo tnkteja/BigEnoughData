@@ -8,6 +8,13 @@
 
 The legacy or so to say the existing sql systems take huge amount of time to process or manipulate the data that comes into them and that is not available in real time for any applications to consume. So to handle the velocity aspect of these we can have streaming aspect of it.
 
+Challenges
+* Veracity
+* Variability
+* Value
+
+
+
 ## References
 1. _https://www.quora.com/How-much-data-is-Big-Data_
 1. _https://www.quora.com/At-what-size-does-data-become-big-data_
